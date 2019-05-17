@@ -1,0 +1,10 @@
+00-connection.php
+0- navbar.php
+1- register.php
+2- login.php
+3- logout.php
+4 - home.php
+5- contentHomePage.php
+6- addNews.php
+7- show.php
+8- delete.php

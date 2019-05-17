@@ -1,0 +1,269 @@
+/*
+First Color: #ed1d24
+Second Color: #08526d
+*/
+
+/*Start Upper Bar*/
+
+
+*{
+	box-sizing: border-box;
+}
+.upper-bar{
+	background-color: #08526d;
+	color: #FFF;
+	padding: 10px;
+}
+
+.upper-bar span{
+	color: #bfc6c9;
+}
+.upper-bar .get-Quote{
+	display: inline-block;
+	border: 1px solid #ec1c23;
+	padding: 2px 10px;
+	margin-left: 20px;
+}
+/*End Upper Bar*/
+
+/*Start Navbar*/
+.navbar .navbar-brand span:first-child{
+	font-weight: bold;
+	font-size: 25px;
+	color:#08526d; 
+}
+
+.navbar .navbar-brand span:last-child{ 
+	color: #ed1d24;
+	font-size: 25px;
+}
+
+.navbar-nav a{
+	color: #4a8094 !important;
+	font-size: 16px;
+	margin-right: 3px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+	color: #ed1d24 !important;
+}
+
+/*End Navbar*/
+
+
+
+/*Start Slider*/
+/*
+.slider .carousel-item{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.slider .carousel-one{
+	background-image: url(../images/slider1.jpg)
+}
+.slider .carousel-two{
+	background-image: url(../images/slider2.jpg)
+}
+.slider .carousel-three{
+	background-image: url(../images/slider3.jpg)
+}
+
+*/
+
+
+
+/*End Slider*/
+
+/*start features*/
+.features{
+	margin-top: 30px;
+}
+
+.features .col .fas{
+	color: #ed1d24;
+	font-size: 30px;
+}
+
+.features .col h3{
+	color: #08526d;
+}
+/*end features*/
+
+
+/* start overview*/
+.overview{
+	background-color: #f0f5f7;
+	padding: 50px;
+}
+.overview h2{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.overview p{
+	color: #687074;
+	line-height: 2;
+}
+.overview h4{
+	letter-spacing: 3px;
+	font-weight: 100;
+	color: #687074;
+	margin-bottom: 25px;
+}
+
+.overview .col button{
+	 letter-spacing: 3px;
+    background-color: #ed1d24;
+    padding: 5px 25px;
+	color: #fdfdfd;
+	
+}
+/*end overview*/
+
+
+
+
+/*<!--	Start  featured Work-->*/
+.feat_work{
+	padding-top: 30px;
+	
+}  
+/*<!--	  End featured work-->*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+		<!--start bootom slider-->
+	  
+	  
+	  
+	  
+	  <!--End bootom slider-->*/
+
+
+
+
+/*start pricing table*/
+.Pricing{
+	background-color: #f7f7f7;
+}
+
+.Pricing .card-body li{
+	border: 0px solid;
+}
+
+.Pricing .card button {
+    width: 7em;
+    margin-top: 22px;
+	margin: auto;
+	text-align: center;
+}
+
+.Pricing .card-text{
+	border: 1px solid red;
+	background-color: #FFF;
+	padding: 5px;
+	
+}
+/*end pricing table*/
+
+
+
+
+
+
+/*<!--start  WHy choose US-->*/
+.why_choose_us{
+	margin-top: 10%;
+}
+
+.why_choose_us .col-6{
+	padding: 0;
+	border: 1px solid red;
+
+}
+.why_choose_us .col-6:last-child{
+	background-color: #08526d;
+	color: #FFF;
+}
+.why_choose_us img{
+	  max-width:100%; 
+  max-height:100%;
+
+  display:block;
+	border: 1px solid black;
+
+	
+}
+
+/*<!--end  WHy choose US-->*/
+
+
+
+
+
+/*<!--	  start status-->*/
+	  
+.status span, .status h3{
+	color: #08526d;
+}  
+
+.status p{
+	color: #ed1d24;
+	font-weight: bold;
+}
+/*<!--	  end status-->*/
+
+
+
+
+
+	  
+/*<!--	  start contact us-->*/
+.contact_us{
+	
+	background-color: #ed1d24;
+/*	padding: 50px 0;*/
+	height: 200px;
+/*	line-height: 200px;*/
+	display: flex;
+	align-items: center;
+	font-size: 20px;
+	color: #FFF;
+}
+.contact_us p{
+	    margin: 0;
+
+}  
+
+.contact_us a{
+	
+	text-decoration: none;
+	color: #fad0d2;
+	border: 2px solid #fad0d2;
+	padding: 6px 15px 8px;
+	font-weight: bold;
+}  
+/*	<!--	  End contact us-->  */
+	  
+
+
+/*<!--	  start footer-->*/
+
+
+/*<!--	  end footer-->*/
+
+/*start copyright*/
+.copyRight ul li{
+	display: inline-block;
+}
+/*End copyright*/
